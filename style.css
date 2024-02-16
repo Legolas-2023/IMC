@@ -367,6 +367,7 @@ div#rodape_texto{
     padding:10px;
     color:var(--color3);
     font-size: 1.25rem;
+    text-align: center;
 }
 
 @media (max-width:1024px){
@@ -427,6 +428,10 @@ div#rodape_texto{
     div#bodybuilder-fim{
         padding:25px;
     } 
+
+    div#rodape_texto{
+        flex-direction: column;
+    }
 }
 
 @media (max-width:425px){
@@ -439,18 +444,15 @@ div#rodape_texto{
         margin:0px;
     }
 
-    div#rodape_texto{
-        flex-direction: column;
-    }
-}
-
-@media (max-width:425px){
-    img#favicon-logo{
-        width:20%;
-    }
-
     input#myBtn, input#confirmar{
         width:90%;
+    }
+
+}
+
+@media (max-width:375px){
+    img#favicon-logo{
+        width:20%;
     }
 
     div#rodape_texto{
