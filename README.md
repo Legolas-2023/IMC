@@ -53,14 +53,14 @@
 ## 📁 Acesso ao projeto
 Você pode acessar a página web clicando [aqui](https://imc-mauve.vercel.app).
 
-## Autor
+## :bust_in_silhouette:Autor
 
 | [<img loading="lazy" src="https://avatars.githubusercontent.com/u/151743336?s=400&u=d8307a26ed9672d44b55295e016a1c097809dd18&v=4" width=115><br><sub>Crystian Tasca</sub>](https://github.com/Legolas-2023) |
 | :---: |
 
 <div align="center">
  
- ## Licença
+ ## :books:Licença
 
  The [MIT](https://github.com/Legolas-2023/IMC/blob/main/LICENSE) License (MIT)
 
