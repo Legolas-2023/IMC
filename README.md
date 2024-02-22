@@ -1,6 +1,6 @@
 
 
-<div align="center" style="background-color:#222831;">
+<div align="center">
  <img width="20%" src="https://github.com/Legolas-2023/IMC/assets/151743336/77c84717-c2b3-475f-b386-045c877fb239">
 
 <h1>
@@ -58,7 +58,7 @@ Você pode acessar a página web clicando [aqui](https://imc-mauve.vercel.app).
 | [<img loading="lazy" src="https://avatars.githubusercontent.com/u/151743336?s=400&u=d8307a26ed9672d44b55295e016a1c097809dd18&v=4" width=115><br><sub>Crystian Tasca</sub>](https://github.com/Legolas-2023) |
 | :---: |
 
-<div align="center" style="background-color:#222831;">
+<div align="center">
  
  ## Licença
 
