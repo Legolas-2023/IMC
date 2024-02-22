@@ -62,7 +62,7 @@ Você pode acessar a página web clicando [aqui](https://imc-mauve.vercel.app).
  
  ## Licença
 
- The [MIT](https://gist.github.com/reginadiana/e044fe93ed81aa04a10361cb841c0409) License (MIT)
+ The [MIT](https://github.com/Legolas-2023/IMC/blob/main/LICENSE) License (MIT)
 
 Copyright ©️ 2024 - IMC
 </div>
